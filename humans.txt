@@ -3,13 +3,27 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Design/SEO/Prototype: Luis Novo
+  Contact:
+  Twitter: @netmarketr
+
+  CSS mastah/JS: Pablo Bascoy
+  Contact:
+  Twitter: @pbascoy
+
+  Devop: Alexandre Espinosa Menor
+  Contact:
+  Twitter: AlexEspinosaGz
+
+  Photograpy/First idea: Tere Borace
+  Contact: tere@tereborace.com
+  Twitter: TereBorace
 
 # THANKS
 
-    <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Vim, PHP, MySQL

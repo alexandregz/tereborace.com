@@ -5,14 +5,14 @@
 
   Design/SEO/Prototype: Luis Novo
   Contact:
-  Twitter: @netmarketr
+  Twitter: netmarketr
 
   CSS mastah/JS: Pablo Bascoy
   Contact:
-  Twitter: @pbascoy
+  Twitter: pbascoy
 
   Devop: Alexandre Espinosa Menor
-  Contact:
+  Contact: aemenor@gmail.com
   Twitter: AlexEspinosaGz
 
   Photograpy/First idea: Tere Borace
